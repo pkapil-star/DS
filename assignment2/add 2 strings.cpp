@@ -22,9 +22,8 @@ int main() {
         j++;
     }
 
-    str1[i] = '\0'; // terminate the concatenated string
-
     cout << "Concatenated string: " << str1 << endl;
 
     return 0;
 }
+
